@@ -4,7 +4,7 @@
 # fabrika ve ordu özelliklerini kaldırdın
 import time
 
-
+print("yeni")
 print("███████████████████████████")
 print("███████▀▀▀░░░░░░░▀▀▀███████")
 print("████▀░░░░░░░░░░░░░░░░░▀████")
